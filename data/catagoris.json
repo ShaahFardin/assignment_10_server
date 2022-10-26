@@ -1,0 +1,30 @@
+[
+  {
+    "catagory_id": "01",
+    "catagory_name": "Programming"
+  },
+  {
+    "catagory_id": "02",
+    "catagory_name": "Web Development"
+  },
+  {
+    "catagory_id": "03",
+    "catagory_name": "Learn English"
+  },
+  {
+    "catagory_id": "04",
+    "catagory_name": "Motivational Speaking"
+  },
+  {
+    "catagory_id": "05",
+    "catagory_name": "Self Improvement"
+  },
+  {
+    "catagory_id": "06",
+    "catagory_name": "Web Design"
+  },
+  {
+    "catagory_id": "07",
+    "catagory_name": "All Courses"
+  }
+]
